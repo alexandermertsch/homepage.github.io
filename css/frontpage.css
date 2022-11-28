@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Leckerli One";
+  src: url("LeckerliOne-Regular.ttf");
+}
+header{
+	font-family: Leckerli One;
+	color: black;
+	background-color: red;
+}
+nav{
+	font-family: Leckerli One;
+	color: black;
+	background-color: orange;
+}
+nav a{
+	background-color: orange;
+	color: black;
+	margin: 10px;
+}
+nav a:hover{
+	background-color: white;
+	color: black;
+	margin: 10px;
+	padding: 5px
+}
+h1 a{
+	color: black;
+}
+h3{
+	font-family: Leckerli One;
+	color: black;
+}
+h4{
+	font-family: Leckerli One;
+	color: black;
+}
+h4 a{
+	background-color: #C1C1C1;
+	color: black;
+	margin: 10px;
+	padding: 5px
+}
+h4 a:hover{
+	background-color: #C1C1C1;
+	color: black;
+	font-size: 20px;
+	margin: 20px;
+	padding: 10px
+}
+main{
+	background-color: #C1C1C1;
+}
+body{
+	color: black;
+	background-color: black;
+}
+footer{
+	font-family: Leckerli One;
+	color: black;
+	background-color: #242424;
+}
